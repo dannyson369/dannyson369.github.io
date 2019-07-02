@@ -1,11 +1,11 @@
 # Site settings
-author: Danny
-title: 
+author: Danny Son
+title: An approach to buying a house
 header-img: img/home-bg.png
 email: dannyson369@gmail.com
-copyright_name: Danny
+copyright_name: Danny Son
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From an An Aspiring Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dannyson369
